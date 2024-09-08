@@ -1,0 +1,50 @@
+16:33:59.318 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:59.323 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:59.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:33:59.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:59.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:59.365 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:33:59.393 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:59.395 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:59.396 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:33:59.422 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:59.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:59.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:33:59.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:59.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:59.453 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:33:59.521 [main] INFO  testCases.TC003_LoginDDT - ****** TC003_LoginDDT *****
+16:34:01.580 [main] INFO  testCases.TC003_LoginDDT - ******** Fnished TC003_LoginDDT **********
+16:34:01.582 [main] INFO  testCases.TC003_LoginDDT - ****** TC003_LoginDDT *****
+16:34:03.183 [main] INFO  testCases.TC003_LoginDDT - ******** Fnished TC003_LoginDDT **********
+16:34:03.185 [main] INFO  testCases.TC003_LoginDDT - ****** TC003_LoginDDT *****
+16:34:04.960 [main] INFO  testCases.TC003_LoginDDT - ******** Fnished TC003_LoginDDT **********
+16:34:04.964 [main] INFO  testCases.TC003_LoginDDT - ****** TC003_LoginDDT *****
+16:34:16.102 [main] INFO  testCases.TC003_LoginDDT - ******** Fnished TC003_LoginDDT **********
+16:34:16.117 [main] INFO  testCases.TC003_LoginDDT - ****** TC003_LoginDDT *****
+16:34:18.094 [main] INFO  testCases.TC003_LoginDDT - ******** Fnished TC003_LoginDDT **********
+16:34:18.101 [main] INFO  testCases.TC003_LoginDDT - ****** TC003_LoginDDT *****
+16:34:29.924 [main] INFO  testCases.TC003_LoginDDT - ******** Fnished TC003_LoginDDT **********
+17:31:14.952 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation WorkSpaces\SeleniumWorkspace\OpencartV16.1\grouping.xml"
+17:31:15.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation WorkSpaces\SeleniumWorkspace\OpencartV16.1\grouping.xml
+
+17:31:17.595 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+17:32:30.970 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation WorkSpaces\SeleniumWorkspace\OpencartV16.1\grouping.xml"
+17:32:31.263 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation WorkSpaces\SeleniumWorkspace\OpencartV16.1\grouping.xml
+
+17:32:33.481 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+17:33:15.143 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation WorkSpaces\SeleniumWorkspace\OpencartV16.1\grouping.xml"
+17:33:15.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation WorkSpaces\SeleniumWorkspace\OpencartV16.1\grouping.xml
+
+17:33:19.008 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+17:33:19.436 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+17:33:19.982 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration Link
+17:33:19.986 [main] INFO  testCases.TC001_AccountRegistrationTest - Providinng customer details
+17:33:21.917 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+17:33:21.975 [main] ERROR testCases.TC001_AccountRegistrationTest - Error info
+17:33:21.975 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug info
+17:33:21.975 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+17:33:24.437 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******

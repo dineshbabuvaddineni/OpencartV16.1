@@ -1,0 +1,51 @@
+20:11:19.323 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:11:19.841 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+20:11:19.842 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+20:11:22.269 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+20:11:33.596 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+20:11:33.892 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+20:11:34.743 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration Link
+20:11:34.745 [main] INFO  testCases.TC001_AccountRegistrationTest - Providinng customer details
+20:11:36.030 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:11:36.650 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+20:11:36.651 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+20:11:42.913 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+11:33:24.502 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\AutomationWorkSpaces\SeleniumWorkspace\OpencartV16.1\grid-docker.xml"
+11:33:25.377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\AutomationWorkSpaces\SeleniumWorkspace\OpencartV16.1\grid-docker.xml
+
+11:33:33.159 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+11:33:33.459 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+11:33:34.241 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration Link
+11:33:34.249 [main] INFO  testCases.TC001_AccountRegistrationTest - Providinng customer details
+11:33:37.872 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+11:33:38.065 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+11:33:38.065 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+11:33:41.094 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+11:33:55.395 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+11:33:56.097 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+11:33:57.053 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration Link
+11:33:57.056 [main] INFO  testCases.TC001_AccountRegistrationTest - Providinng customer details
+11:33:58.591 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+11:33:59.344 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+11:33:59.344 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+11:34:08.386 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+13:14:34.332 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\AutomationWorkSpaces\SeleniumWorkspace\OpencartV16.1\master.xml"
+13:14:43.552 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+13:14:43.968 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+13:14:44.900 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration Link
+13:14:44.909 [main] INFO  testCases.TC001_AccountRegistrationTest - Providinng customer details
+13:14:47.472 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:14:47.553 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+13:14:47.553 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+13:14:51.217 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+14:45:23.223 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\AutomationWorkSpaces\SeleniumWorkspace\OpencartV16.1\master.xml"
+14:45:29.229 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+14:45:29.371 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+14:45:29.880 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Registration Link
+14:45:29.883 [main] INFO  testCases.TC001_AccountRegistrationTest - Providinng customer details
+14:45:31.309 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:45:31.356 [main] INFO  testCases.TC001_AccountRegistrationTest - Test Passed
+14:45:31.356 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** TC001_AccountRegistrationTest *****
+14:45:33.660 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest ******
+15:16:30.723 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\AutomationWorkSpaces\SeleniumWorkspace\OpencartV16.1\master.xml"
